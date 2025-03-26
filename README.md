@@ -6,3 +6,5 @@ I went to the University of Illinois at Chicago (UIC) and got my bachelor's in I
 I'm currently enrolled in the [Google Data Analytics Professional Certificate](https://www.coursera.org/user/918107e65a93a89709e4425facf5c5ea) to refresh what I learned in school, but also to learn new things and further develop my skills!<br/>
 
 Here's my [LinkedIn](www.linkedin.com/in/avinathongsavanh), let's connect!<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
